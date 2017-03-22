@@ -1910,13 +1910,7 @@ html, body, p, span, li, a, div {
     text-transform: uppercase;
     font-size: 1.1vw;
   }
-
-    .adv-cont {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-  }
-
+  
   .advant {
     display: flex;
     justify-content: center;
