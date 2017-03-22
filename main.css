@@ -1911,10 +1911,11 @@ html, body, p, span, li, a, div {
     font-size: 1.1vw;
   }
 
-    .adv-cont {
+   .adv-cont {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    width: 100%; 
   }
 
   .advant {
