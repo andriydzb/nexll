@@ -672,11 +672,17 @@ html, body, p, span, li, a, div {
   }
 
   .inputs {
-    margin-top: 2.5vw;
+    height: 8vw;
+    margin-top: 1vw;
+  }
+
+  .inputs p {
+    height: 4vw;
   }
 
   .more-info {
     margin-top: 2vw;
+    height: 2vw;
   }
 
   .more-info a {
@@ -694,7 +700,7 @@ html, body, p, span, li, a, div {
     display: inline-block;
     width: 12vw;
     height: 2vw;
-    margin-top: 1vw;
+    margin-top: 2vw;
   }
 
   .info-right {
